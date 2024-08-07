@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Capstone/StartScreen.unity
+    guid: ea1b5c19d9783674882064f918b26608
+  - enabled: 1
+    path: Assets/Scenes/Capstone/Tutorial.unity
+    guid: f6c898d626462144f99c68d3e08c7f8f
+  - enabled: 1
+    path: Assets/Scenes/Capstone/Level1.unity
+    guid: 4f711871ec00eee42979068fa045edc8
+  - enabled: 1
+    path: Assets/Scenes/Capstone/Level2.unity
+    guid: 9b2017507d740914ab5931add8a980ed
+  - enabled: 1
+    path: Assets/Scenes/Capstone/Level3.unity
+    guid: 7350501ab9f184940ae3e5dc492153ee
+  - enabled: 1
+    path: Assets/Scenes/Capstone/Level4.unity
+    guid: 929acbb92c4fd724d88c862bc25a9fcd
+  - enabled: 1
+    path: Assets/Scenes/Capstone/LastLevel.unity
+    guid: 3a268402786d0be4786c19ab15d82c1d
+  - enabled: 1
+    path: Assets/Scenes/Capstone/Ending.unity
+    guid: ec4be343644bdc343aba1f36134ce414
+  - enabled: 1
+    path: Assets/Scenes/Capstone/GameOver.unity
+    guid: 74124ce880b60194bad1b877bde18115
+  - enabled: 0
+    path: Assets/Scenes/Capstone/Attract.unity
+    guid: 22c318a3ee8241b49919af4b3fa240cd
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: b4fcfaf1657d1fe419e089fd2c48839a,
+      type: 2}
